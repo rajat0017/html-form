@@ -174,7 +174,11 @@ margin-top:-5px;
 				<input type="text" placeholder="Confirm your E-mail" name='cemail' data-required="true" data-error-message="Your E-mail must correspond">
 			</div>
 			<input class="btn" type="submit" value="Register">
-			
+			<ul class="items">
+
+				<li class="item">item 1</li>
+				<li class="item">item 2</li>
+			</ul>
 		</form>
 	</div>
 </div>
