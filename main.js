@@ -1,0 +1,1 @@
+object.style.justifyContent='center';
